@@ -1,0 +1,6 @@
+
+(base) M1P~/git/pcecmstudio$ export TOOLPATH=.
+(base) M1P~/git/pcecmstudio$ python bin/studio_ecm.py --nanohub --rules
+
+
+
